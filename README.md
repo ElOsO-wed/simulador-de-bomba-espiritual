@@ -1,6 +1,6 @@
 script:
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ElOsO-wed/simulador-de-bomba-espiritual/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ElOsO-wed/UWU-111/refs/heads/main/README.md"))()
 
 juego:
 
